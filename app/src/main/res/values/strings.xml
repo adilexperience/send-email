@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplicitIntentAssignment2</string>
+    <string name="send_email">Send Email</string>
+    <string name="enter_email_address_of_recipient">Enter Email-Address of recipient</string>
+    <string name="enter_your_email_address">Enter your Email-Address</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send_mail_now">Send Mail Now</string>
+    <string name="enter_valid_email_for_recipient">Enter valid recipient Email-Address</string>
+    <string name="enter_your_valid_email">Your Email-Address is not valid</string>
+    <string name="enter_message">Message is required to send mail</string>
+</resources>
